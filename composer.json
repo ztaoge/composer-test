@@ -1,0 +1,13 @@
+{
+    "name": "ztaoge/composer-test",
+    "description": "composer-test",
+    "authors": [
+        {
+            "name": "zhangjintao",
+            "email": "hi.zhangjt@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
